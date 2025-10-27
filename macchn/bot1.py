@@ -7,7 +7,7 @@ import asyncio
 import time
 
 # ===== BOT 1 CONFIGURATION - CHANGE THESE =====
-BOT_TOKEN = "MTQxMTY3NzY0ODE2NTQwNDY5Mg.G3420q.CoECyrYx0OpRU4yPXTKyu8ir7_kQfSxfZXADQk"
+BOT_TOKEN = "MTQxMTY3NzY0ODE2NTQwNDY5Mg.GsOLsd.FNT6I1x1WdfTrXlpww4mRsXa3arTkVnPB4M8iI"
 BOT_NAME = "Bot1"
 OWNER_USER_ID = 802444845225869342
 REFRESH_INTERVAL = 3000  # 50 minutes
@@ -308,3 +308,4 @@ async def ping(ctx):
 
 if __name__ == "__main__":
     bot.run(BOT_TOKEN)
+
